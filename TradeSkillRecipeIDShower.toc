@@ -1,0 +1,5 @@
+## Interface: 70300
+## Title: TradeSkillRecipeIDShower
+## Notes: adds recipe ID to the bottom of the trade skill recipe details
+## Author: Alex Folland
+TradeSkillRecipeIDShower.lua
