@@ -2,4 +2,8 @@
 ## Title: TradeSkillRecipeIDShower
 ## Notes: adds recipe ID to the bottom of the trade skill recipe details
 ## Author: Alex Folland
+## LoadOnDemand: 1
+## LoadWith: Blizzard_TradeSkillUI
+## Dependencies: Blizzard_TradeSkillUI
+
 TradeSkillRecipeIDShower.lua
